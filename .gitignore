@@ -1,0 +1,9 @@
+# Ignore all skills by default
+*
+
+# Track git and config files
+!.gitignore
+
+# Track custom skills (add new skills here)
+!live-sales-coach/
+!live-sales-coach/**

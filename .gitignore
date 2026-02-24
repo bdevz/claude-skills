@@ -3,6 +3,7 @@
 
 # Track git and config files
 !.gitignore
+!README.md
 
 # Track custom skills (add new skills here)
 !live-sales-coach/
